@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simba-g
 - 👀 I’m interested in databases, distributed systems and Rust programming language.
 - 🌱 I’m currently learning actor frameworks - actix, orleans and WASM/WASI for embedding scripting languages.
-- 💞️ I’m looking to collaborate on service fabric, postgres, freta, avml, blender, freecad and Rust programming language.
+- 💞️ I’m looking to collaborate on service fabric, postgres, freta, avml, blender, freecad and Rust programming language. I like containerized dev/build environments.
 - 📫 Reach me at simha.gemaraju@outlook.com
 
 <!---
